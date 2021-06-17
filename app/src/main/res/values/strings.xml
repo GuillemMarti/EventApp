@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">EventApp</string>
+    <string name="Email">Email</string>
+    <string name="passwordTextView">Contraseña</string>
+    <string name="loginButton">Login</string>
+    <string name="registerButton">Registrate</string>
+    <string name="registrar_cuenta">Registrar cuenta</string>
+    <string name="repiteContraseña">Repite contraseña</string>
+    <string name="nombre_y_apellidos">Nombre y apellidos</string>
+    <string name="telefono">Teléfono</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="lista_de_eventos">Lista de eventos</string>
+    <string name="crear_evento">Crear evento</string>
+    <string name="crear_tarea">Crear tarea</string>
+    <string name="evento">Evento</string>
+    <string name="fecha">Fecha</string>
+    <string name="crear">Crear</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="tarea">Tarea</string>
+    <string name="enviar_notificaci_n">Enviar notificación</string>
+    <string name="nombre_del_grupo_de_telegram">Nombre del grupo de telegram</string>
+    <string name="a_adir_participante">Añadir participante</string>
+    <string name="lista_participantes">Lista participantes</string>
+    <string name="a_adir">Añadir</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="email_del_participante">Email del participante</string>
+    <string name="tarea2">Tarea:</string>
+    <string name="assignada">Asignada:</string>
+    <string name="persona">Persona:</string>
+    <string name="asignar">Asignar</string>
+    <string name="finalizar">Finalizar</string>
+</resources>
