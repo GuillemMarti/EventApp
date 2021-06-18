@@ -56,8 +56,8 @@ public class InfoEventActivity extends AppCompatActivity {
 
 
     String urlString;
-    String urlGetUpdates = "https://api.telegram.org/bot1788102295:AAHW0cLeBo5kian53qUcAbpJeNi4GmvG-h4/getUpdates?offset=-1";
-    String apiToken = "1788102295:AAHW0cLeBo5kian53qUcAbpJeNi4GmvG-h4";
+    String urlGetUpdates = "https://api.telegram.org/botAPItoken/getUpdates?offset=-1";
+    String apiToken = "APItoken";
     String chatId;
     JSONObject chatjson;
 
